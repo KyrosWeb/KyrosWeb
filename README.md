@@ -60,7 +60,8 @@ Hi, I'm Nicola. I started developing at the age of 12 as a self-taught person, i
 <br/>  
 
 
-## Connect with me  
+## Connect with me
+<br/> 
 <div align="center">
 <a href="https://linkedin.com/in/nicderosa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -81,8 +82,11 @@ Hi, I'm Nicola. I started developing at the age of 12 as a self-taught person, i
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KyrosWeb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<br/> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyrosWeb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KyrosWeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 <br/>  
 
   
