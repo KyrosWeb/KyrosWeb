@@ -6,7 +6,7 @@
 
 
 ### Hi there I'm Nicola 👋   
-Hi, I'm Nicola. I started developing at the age of 12 as a self-taught person, improving my skills with courses and lessons, which helped me grow more and more. I currently attend the Faculty of Medicine and Surgery at Federico II. I hope that with my studies and my determination I will be able to realize one of my greatest dreams: combining medicine and development and creating something new that can change the interaction between these two worlds.  
+Hi, I'm Nicola. I started growing up at the age of 12 as a self-taught person, improving my skills with courses and lessons, which helped me grow more and more. I graduated from the Faculty of Medicine and Surgery at Federico II. I hope that with my studies and my determination I will be able to realize one of my biggest dreams: to unite medicine and development and create something new that can change the interaction between these two worlds.
   
 
 <br/>  
